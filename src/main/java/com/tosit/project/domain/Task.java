@@ -5,8 +5,8 @@ import java.io.Serializable;
 /**
  * 任务类
  * <p>
- * Created by Wanghan on 2017/3/11.
- * Copyright © Wanghan SCU. All Rights Reserved
+ * Created by Bobo on 2017/3/11.
+ * Copyright © Bobo SCU. All Rights Reserved
  */
 
 public class Task implements Serializable {

@@ -3,8 +3,8 @@ package com.tosit.project.dao.impl;
 /**
  * 配置加载管理类
  * <p>
- * Created by Wanghan on 2017/3/11.
- * Copyright © Wanghan SCU. All Rights Reserved
+ * Created by Bobo on 2017/3/11.
+ * Copyright © Bobo SCU. All Rights Reserved
  */
 
 import com.tosit.project.dao.ITaskDAO;

@@ -3,8 +3,8 @@ package com.tosit.project.javautils;
 /**
  * sql语句工具类
  * <p>
- * Created by Wanghan on 2017/3/13.
- * Copyright © Wanghan SCU. All Rights Reserved
+ * Created by Bobo on 2017/3/13.
+ * Copyright © Bobo SCU. All Rights Reserved
  */
 public class SqlUnits {
 

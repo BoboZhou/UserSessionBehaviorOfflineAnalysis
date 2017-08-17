@@ -3,8 +3,8 @@ package com.tosit.project.exception;
 /**
  * 字符串分割异常类
  * <p>
- * Created by Wanghan on 2017/3/12.
- * Copyright © Wanghan SCU. All Rights Reserved
+ * Created by Bobo on 2017/3/12.
+ * Copyright © Bobo SCU. All Rights Reserved
  */
 public class StringSepatorException extends Exception {
     /**

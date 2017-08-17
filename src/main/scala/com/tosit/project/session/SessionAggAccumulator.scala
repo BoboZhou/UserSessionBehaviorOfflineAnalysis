@@ -8,8 +8,8 @@ import org.apache.spark.AccumulatorParam
 /**
   * 自定义session聚合累加器
   *
-  * Created by Wanghan on 2017/3/13.
-  * Copyright © Wanghan SCU. All Rights Reserved
+  * Created by Bobo on 2017/3/13.
+  * Copyright © Bobo SCU. All Rights Reserved
   */
 object SessionAggAccumulator extends AccumulatorParam[String] {
     private val INITIAL_VALUE: String = Constants.SESSION_COUNT + "=0" + Constants.VALUE_SEPARATOR +

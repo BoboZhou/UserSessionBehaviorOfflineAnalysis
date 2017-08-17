@@ -8,8 +8,8 @@ import org.json.JSONObject;
 /**
  * 解析参数工具类
  * <p>
- * Created by Wanghan on 2017/3/12.
- * Copyright © Wanghan SCU. All Rights Reserved
+ * Created by Bobo on 2017/3/12.
+ * Copyright © Bobo SCU. All Rights Reserved
  */
 public class ParamUtils {
     /**

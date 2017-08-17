@@ -10,8 +10,8 @@ import org.json.JSONObject
 /**
   * 辅助数据分析工具对象
   *
-  * Created by Wanghan on 2017/3/11.
-  * Copyright © Wanghan SCU. All Rights Reserved
+  * Created by Bobo on 2017/3/11.
+  * Copyright © Bobo SCU. All Rights Reserved
   */
 object AnalyzeHelperUnits {
 

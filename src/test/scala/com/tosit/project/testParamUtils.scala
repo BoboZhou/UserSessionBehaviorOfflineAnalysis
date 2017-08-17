@@ -5,8 +5,8 @@ import com.tosit.project.scalautils.AnalyzeHelperUnits
 import org.json.JSONObject
 
 /**
-  * Created by Wanghan on 2017/3/12.
-  * Copyright © Wanghan SCU. All Rights Reserved
+  * Created by Bobo on 2017/3/12.
+  * Copyright © Bobo SCU. All Rights Reserved
   */
 object testParamUtils {
     def main(args: Array[String]): Unit = {

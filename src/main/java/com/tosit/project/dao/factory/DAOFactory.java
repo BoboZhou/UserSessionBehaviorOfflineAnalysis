@@ -6,8 +6,8 @@ import com.tosit.project.dao.impl.TaskDAOImpl;
 /**
  * 数据访问对象工厂类
  * <p>
- * Created by Wanghan on 2017/3/11.
- * Copyright © Wanghan SCU. All Rights Reserved
+ * Created by Bobo on 2017/3/11.
+ * Copyright © Bobo SCU. All Rights Reserved
  */
 public class DAOFactory {
     /**

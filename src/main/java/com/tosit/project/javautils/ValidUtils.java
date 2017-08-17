@@ -3,8 +3,8 @@ package com.tosit.project.javautils;
 /**
  * 有效性检验类
  * <p>
- * Created by Wanghan on 2017/3/11.
- * Copyright © Wanghan SCU. All Rights Reserved
+ * Created by Bobo on 2017/3/11.
+ * Copyright © Bobo SCU. All Rights Reserved
  */
 
 public class ValidUtils {
